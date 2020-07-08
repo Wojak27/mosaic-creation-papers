@@ -3,6 +3,8 @@
 ## Introduction
 This repository is meant for collecting scientific articles about the mosaic creation process from UAV (Unmanned Aerial Vehicle) images.
 
+The papers are follwoing the timeline and are divided into categories for easier following.
+
 #### Map2DFusion: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM (2016) 
 This paper  presents a fast method for mosaic creation bla bla. You can download it [here](http://www.adv-ci.com/publications/2016_IROS.pdf)
 
@@ -27,3 +29,4 @@ This paper  presents a fast method for mosaic creation bla bla. You can download
 #### Distinctive Image Features from Scale-Invariant Keypoints
 
 #### Real-Time Spherical Mosaicing Using Whole Image Alignment
+
