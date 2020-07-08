@@ -10,6 +10,8 @@ which you can buy [here](https://www.manning.com/books/geoprocessing-with-python
 
 The papers are following the timeline and are divided into categories for easier following.
 
+## The papers
+
 #### Map2DFusion: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM (2016) 
 This paper  presents a fast method for mosaic creation bla bla. You can download it [here](http://www.adv-ci.com/publications/2016_IROS.pdf)
 
