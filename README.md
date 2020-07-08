@@ -2,7 +2,11 @@
 
 ## Introduction
 This repository is meant for collecting scientific articles about the mosaic creation process from UAV (Unmanned Aerial Vehicle) images.
-For beginners we strongly recommend to start with books like Computer Vision: Algorithms and Applications by Richard Szeliski which you access [here](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) as well as Geoprocessing with Python, which you can buy [here](https://www.manning.com/books/geoprocessing-with-python)
+For beginners we strongly recommend to start with books like 
+#### Computer Vision: Algorithms and Applications by Richard Szeliski 
+which you access [here](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) as well as 
+#### Geoprocessing with Python
+which you can buy [here](https://www.manning.com/books/geoprocessing-with-python)
 
 The papers are following the timeline and are divided into categories for easier following.
 
