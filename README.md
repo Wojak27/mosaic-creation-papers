@@ -12,6 +12,22 @@ The papers are following the timeline and are divided into categories for easier
 
 ## The papers
 
+#### Direct Georeferencing of Ultrahigh-Resolution UAV Imagery
+Available
+[here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6553130&casa_token=EVCZ2Iv39b0AAAAA:wf5SAj2uUi9uy-9rd7YNlMACtmx1OLGkNUJuJjYVEtS2PDmfGB-_-2HobUXUn-RkSdgvuowY&tag=1)
+
+#### Accurate Geo-Referencing of Trees with No or Inaccurate Terrestrial Location Devices
+Available
+[here](https://www.mdpi.com/2072-4292/11/16/1877/htm)
+
+#### Mosaicking of Unmanned Aerial Vehicle Imagery in the Absence of Camera Poses
+Available
+[here](https://www.mdpi.com/2072-4292/8/3/204/htm)
+
+#### Robust Mosaicking of Lightweight UAV Images Using Hybrid Image Transformation Modeling
+Available
+[here](https://www.mdpi.com/2072-4292/12/6/1002/htm)
+
 #### Map2DFusion: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM (2016) 
 This paper  presents a fast method for mosaic creation bla bla. You can download it [here](http://www.adv-ci.com/publications/2016_IROS.pdf)
 
