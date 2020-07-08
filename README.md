@@ -14,7 +14,7 @@ The papers are following the timeline and are divided into categories for easier
 
 #### Direct Georeferencing of Ultrahigh-Resolution UAV Imagery
 Available
-[here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6553130&casa_token=EVCZ2Iv39b0AAAAA:wf5SAj2uUi9uy-9rd7YNlMACtmx1OLGkNUJuJjYVEtS2PDmfGB-_-2HobUXUn-RkSdgvuowY&tag=1)
+[here](https://ieeexplore.ieee.org/abstract/document/6553130?casa_token=jvmoaHCFOj8AAAAA:8sp_SDoIJe5tYKftTTtqH5Ut7bTQM71lqvM_AehopNY9zSiqkAepSD4UhvGczUz2Z2Ixt_tj)
 
 #### Accurate Geo-Referencing of Trees with No or Inaccurate Terrestrial Location Devices
 Available
