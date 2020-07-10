@@ -28,6 +28,10 @@ Available
 Available
 [here](https://www.mdpi.com/2072-4292/12/6/1002/htm)
 
+#### A Stereo Dual-Channel Dynamic Programming Algorithm for UAV Image Stitching (2017)
+Available
+[here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5621153/)
+
 #### Map2DFusion: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM (2016) 
 This paper  presents a fast method for mosaic creation bla bla. You can download it [here](http://www.adv-ci.com/publications/2016_IROS.pdf)
 
