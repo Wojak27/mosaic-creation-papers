@@ -8,6 +8,13 @@ which you access [here](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_dr
 #### Geoprocessing with Python
 which you can buy [here](https://www.manning.com/books/geoprocessing-with-python)
 
+
+## Seamline Papers
+Automatic Generation of Seamline Network Using Area Voronoi Diagrams With Overlap
+[Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.3922&rep=rep1&type=pdf)
+
+An Improved Seeded Region Growing-Based Seamline Network Generation Method
+[Link](https://www.mdpi.com/2072-4292/10/7/1065/htm)
 The papers are following the timeline and are divided into categories for easier following.
 
 ## The papers
