@@ -15,7 +15,7 @@ Automatic Generation of Seamline Network Using Area Voronoi Diagrams With Overla
 
 An Improved Seeded Region Growing-Based Seamline Network Generation Method
 [Link](https://www.mdpi.com/2072-4292/10/7/1065/htm)
-The papers are following the timeline and are divided into categories for easier following.
+
 
 ## The papers
 
