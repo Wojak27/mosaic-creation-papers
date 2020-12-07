@@ -9,13 +9,14 @@ which you access [here](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_dr
 which you can buy [here](https://www.manning.com/books/geoprocessing-with-python)
 
 
-## Seamline Papers
+## Seamline Papers - How to cut lines between images
 Automatic Generation of Seamline Network Using Area Voronoi Diagrams With Overlap
 [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.3922&rep=rep1&type=pdf)
 
 An Improved Seeded Region Growing-Based Seamline Network Generation Method
 [Link](https://www.mdpi.com/2072-4292/10/7/1065/htm)
 
+Remote Sensing Image Mosaicking [Link](https://www.researchgate.net/profile/Xinghua_Li6/publication/338060496_Remote_Sensing_Image_Mosaicking_Achievements_and_Challenges/links/5dfc2625a6fdcc28372ecc63/Remote-Sensing-Image-Mosaicking-Achievements-and-Challenges.pdf)
 
 ## The papers
 
